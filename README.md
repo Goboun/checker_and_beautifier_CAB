@@ -1,4 +1,4 @@
-# Checker & Beautifier in Java for python language
+# CAB : Checker & Beautifier in Java for python language
 ***
 Cette application s'intéresse à la qualité des codes python (fichiers d’extension « .py ») en
 particulier pour les aspects de typage et de commentaire des codes. 
